@@ -3,7 +3,7 @@
 ### Requirements packages
 ---
   * [`MPyC`](https://github.com/lschoe/mpyc)
-  * ['SymPy'](https://github.com/sympy/sympy)
+  * [`SymPy`](https://github.com/sympy/sympy)
 
 ### Executing the Code
 
