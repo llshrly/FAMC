@@ -18,4 +18,4 @@ Multiple servers perform multi-party computation:
 
 	rank1: python FAMC.py -P {rank0 ip address} -P localhost -P {rank2 ip address} -I1
 
-	rank2: python FAMC.py -P {rank0 ip address} -P {rank1 ip address} -P localhost -I2
+	rank2: python FAMC.py -P {rank0 ip address} -P {rank1 ip address} -P localhost -I2# FAMC
