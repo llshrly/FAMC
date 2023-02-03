@@ -1,9 +1,7 @@
 # FAMC: Fair and Public Auditable Multi-Party Computation with Cheater Detection
 
-### Requirements
+### Requirements packages
 ---
-
-* **Required packages:**
   * [`MPyC`](https://github.com/lschoe/mpyc)
   * ['SymPy'](https://github.com/sympy/sympy)
 
